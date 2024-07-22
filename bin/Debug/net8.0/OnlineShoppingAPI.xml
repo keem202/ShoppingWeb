@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OnlineShoppingAPI</name>
+    </assembly>
+    <members>
+        <member name="T:OnlineShoppingAPI.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineShoppingAPI.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineShoppingAPI.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineShoppingAPI.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:OnlineShoppingAPI.Migrations.SeedProducts">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineShoppingAPI.Migrations.SeedProducts.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineShoppingAPI.Migrations.SeedProducts.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineShoppingAPI.Migrations.SeedProducts.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineShoppingAPI.Migrations.UpdateUserAndRoleModel.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:OnlineShoppingAPI.Migrations.FixIdentityMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineShoppingAPI.Migrations.FixIdentityMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineShoppingAPI.Migrations.FixIdentityMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OnlineShoppingAPI.Migrations.FixIdentityMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

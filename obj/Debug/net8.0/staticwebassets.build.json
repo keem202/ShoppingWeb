@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MQ0WiTxtoQUyWz5SKDjHdt10RRNar8RoWWUUTzWy+W8=",
+  "Hash": "Yt02Xfa+axyQa5RfNM7Jc1eKq3xlIKD52gOXmbOuyss=",
   "Source": "OnlineShoppingAPI",
   "BasePath": "_content/OnlineShoppingAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "OnlineShoppingAPI/wwwroot",
       "Source": "OnlineShoppingAPI",
-      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/",
+      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/",
       "BasePath": "_content/OnlineShoppingAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/cart.html",
+      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/cart.html",
       "SourceId": "OnlineShoppingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/",
+      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/",
       "BasePath": "_content/OnlineShoppingAPI",
       "RelativePath": "cart.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot/cart.html"
     },
     {
-      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/index.html",
+      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/index.html",
       "SourceId": "OnlineShoppingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/",
+      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/",
       "BasePath": "_content/OnlineShoppingAPI",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/products.html",
+      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/products.html",
       "SourceId": "OnlineShoppingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/",
+      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/",
       "BasePath": "_content/OnlineShoppingAPI",
       "RelativePath": "products.html",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/products.html"
     },
     {
-      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/register.html",
+      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/register.html",
       "SourceId": "OnlineShoppingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/",
+      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/",
       "BasePath": "_content/OnlineShoppingAPI",
       "RelativePath": "register.html",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/register.html"
     },
     {
-      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/Scripts.js",
+      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/Scripts.js",
       "SourceId": "OnlineShoppingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/",
+      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/",
       "BasePath": "_content/OnlineShoppingAPI",
       "RelativePath": "Scripts.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/Scripts.js"
     },
     {
-      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/Styles.css",
+      "Identity": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/Styles.css",
       "SourceId": "OnlineShoppingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/wwwroot/",
+      "ContentRoot": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/wwwroot/",
       "BasePath": "_content/OnlineShoppingAPI",
       "RelativePath": "Styles.css",
       "AssetKind": "All",

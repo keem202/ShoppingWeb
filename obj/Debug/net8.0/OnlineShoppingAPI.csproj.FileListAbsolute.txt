@@ -291,3 +291,4 @@
 /Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/obj/Debug/net8.0/OnlineShoppingAPI.pdb
 /Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/obj/Debug/net8.0/OnlineShoppingAPI.genruntimeconfig.cache
 /Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/obj/Debug/net8.0/ref/OnlineShoppingAPI.dll
+/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/obj/Debug/net8.0/OnlineShoppingAPI.sourcelink.json

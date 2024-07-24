@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/OnlineShoppingAPI.csproj": {}
+    "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/OnlineShoppingAPI.csproj": {}
   },
   "projects": {
-    "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/OnlineShoppingAPI.csproj": {
+    "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/OnlineShoppingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/OnlineShoppingAPI.csproj",
+        "projectUniqueName": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/OnlineShoppingAPI.csproj",
         "projectName": "OnlineShoppingAPI",
-        "projectPath": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/OnlineShoppingAPI.csproj",
+        "projectPath": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/OnlineShoppingAPI.csproj",
         "packagesPath": "/Users/boi/.nuget/packages/",
-        "outputPath": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/obj/",
+        "outputPath": "/Users/boi/Desktop/Elaraby-Intern /Clone/Online-Shopping-Website/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/boi/.nuget/NuGet/NuGet.Config"

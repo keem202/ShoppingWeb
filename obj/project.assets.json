@@ -4477,11 +4477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/OnlineShoppingAPI.csproj",
+      "projectUniqueName": "/Users/boi/Desktop/Elaraby-Intern /untitled folder/OnlineShoppingAPI/OnlineShoppingAPI.csproj",
       "projectName": "OnlineShoppingAPI",
-      "projectPath": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/OnlineShoppingAPI.csproj",
+      "projectPath": "/Users/boi/Desktop/Elaraby-Intern /untitled folder/OnlineShoppingAPI/OnlineShoppingAPI.csproj",
       "packagesPath": "/Users/boi/.nuget/packages/",
-      "outputPath": "/Users/boi/Desktop/Elaraby-Intern /Task 4 Shopping site/OnlineShoppingAPI/obj/",
+      "outputPath": "/Users/boi/Desktop/Elaraby-Intern /untitled folder/OnlineShoppingAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/boi/.nuget/NuGet/NuGet.Config"
